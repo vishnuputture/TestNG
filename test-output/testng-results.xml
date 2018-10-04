@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Online Shopping India: Shop Mobiles, Books, Clothes, Shoes & More Online - Infibeam.com]]>
+    </line>
+    <line>
+      <![CDATA[https://www.infibeam.com/]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29786" started-at="2018-10-03T08:40:26Z" finished-at="2018-10-03T08:40:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29786" started-at="2018-10-03T08:40:26Z" finished-at="2018-10-03T08:40:55Z">
+      <class name="testng.LoginNG">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:testng.LoginNG@78e67e0a]" name="openapp" is-config="true" duration-ms="20020" started-at="2018-10-03T08:40:26Z" finished-at="2018-10-03T08:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method status="PASS" signature="loginto()[pri:0, instance:testng.LoginNG@78e67e0a]" name="loginto" duration-ms="7379" started-at="2018-10-03T08:40:46Z" finished-at="2018-10-03T08:40:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Online Shopping India: Shop Mobiles, Books, Clothes, Shoes & More Online - Infibeam.com]]>
+            </line>
+            <line>
+              <![CDATA[https://www.infibeam.com/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginto -->
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:testng.LoginNG@78e67e0a]" name="closeapp" is-config="true" duration-ms="2370" started-at="2018-10-03T08:40:53Z" finished-at="2018-10-03T08:40:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- testng.LoginNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
